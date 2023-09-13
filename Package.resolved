@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "wireguard-apple",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/safehousetech/wireguard-apple.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1b111c0704ea8feeef83f942cde35ffc87be0d87"
+      }
+    }
+  ],
+  "version" : 2
+}
